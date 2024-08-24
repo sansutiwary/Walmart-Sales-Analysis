@@ -40,8 +40,14 @@ The dataset used for this analysis consists of historical sales data from Walmar
 
 To get started with the analysis:
 
-1. **Clone the Repository**: `git clone https://github.com/sansutiwary/Walmart-Sales-Analysis.git`
-2. **Install Dependencies**: Ensure you have the necessary Python libraries installed. You can install them using `pip install -r requirements.txt`.
+1. **Clone the Repository**: 
+    ```bash
+    git clone https://github.com/sansutiwary/Walmart-Sales-Analysis.git
+    ```
+2. **Install Dependencies**: Ensure you have the necessary Python libraries installed. You can install them using:
+    ```bash
+    pip install -r requirements.txt
+    ```
 3. **Explore the Notebooks**: Dive into the Jupyter notebooks provided in the repository to explore the analysis and findings.
 4. **Contribute**: Feel free to contribute your insights, improvements, or additional analyses by creating pull requests.
 
@@ -49,11 +55,20 @@ To get started with the analysis:
 
 Contributions to this repository are welcomed and encouraged! Whether it's fixing a bug, adding a new analysis, or improving documentation, every contribution is valuable. To contribute, follow these steps:
 
-1. Fork the repository.
-2. Create your feature branch: `git checkout -b feature/new-feature`.
-3. Commit your changes: `git commit -am 'Add some feature'`.
-4. Push to the branch: `git push origin feature/new-feature`.
-5. Submit a pull request.
+1. **Fork the repository**.
+2. **Create your feature branch**: 
+    ```bash
+    git checkout -b feature/new-feature
+    ```
+3. **Commit your changes**: 
+    ```bash
+    git commit -am 'Add some feature'
+    ```
+4. **Push to the branch**: 
+    ```bash
+    git push origin feature/new-feature
+    ```
+5. **Submit a pull request**.
 
 ## License
 
