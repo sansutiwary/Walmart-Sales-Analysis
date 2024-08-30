@@ -1,6 +1,6 @@
 # Walmart Sales Analysis
 
-![Walmart Logo](https://corporate.walmart.com/_furniture/_images/logo-og.png)
+
 
 Welcome to the Walmart Sales Analysis repository! This repository contains a comprehensive analysis of sales data from Walmart stores. Whether you're a data enthusiast, a business analyst, or a curious mind, you'll find valuable insights and tools to explore and understand the retail landscape.
 
